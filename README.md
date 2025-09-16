@@ -1,6 +1,5 @@
 # Ex.No.4 – Scenario-Based Report Development Utilizing Diverse Prompting Techniques
 
-## DATE:04-09-2025
 
 ---
 
